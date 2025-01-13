@@ -3,6 +3,12 @@ C# WinForms desktop game
 
 ![grafik](https://github.com/user-attachments/assets/5331d03e-7810-4a6f-be0b-2fff58b386e2)
 
+
+
+https://github.com/user-attachments/assets/c6b96ecb-8765-412d-ba19-61933c35906e
+
+
+
 Point-and-Click Game ist ein 2D-WinForms-Desktopspiel, entwickelt in C#. Das Spiel basiert auf der Darstellung und Steuerung von bewegenden Objekten (Bällen) mithilfe von Bitmaps und Timern.
 
 Spielmechanik
